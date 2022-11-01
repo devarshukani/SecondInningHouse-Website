@@ -806,8 +806,9 @@ textarea.form-control {
 
 .footer {
 	background: lighten($black, 25%);
-	padding: 8em 0;
+	padding-top: 8em;
 	color: $white;
+	padding-bottom: 10px;
 
 	.heading-section {
 		font-size: 20px;
